@@ -1,0 +1,12 @@
+{"time":"2026-11-07T12:48:03.8900471+09:00","level":"INFO","msg":"wandb-core"}
+{"time":"2026-11-07T12:48:03.8900471+09:00","level":"INFO","msg":"stream: starting","core version":"0.31.0"}
+{"time":"2026-11-07T12:48:03.8907589+09:00","level":"INFO","msg":"stream: created new stream","id":"gtuxsxas"}
+{"time":"2026-11-07T12:48:03.8907589+09:00","level":"INFO","msg":"handler: started"}
+{"time":"2026-11-07T12:48:03.8917918+09:00","level":"INFO","msg":"stream: started"}
+{"time":"2026-11-07T12:48:03.8917918+09:00","level":"INFO","msg":"writer: started","stream_id":"gtuxsxas"}
+{"time":"2026-11-07T12:48:03.8917918+09:00","level":"INFO","msg":"sender: started"}
+{"time":"2026-11-07T12:48:25.1820456+09:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-11-07T12:48:25.1831916+09:00","level":"INFO","msg":"stream: finishing up"}
+{"time":"2026-11-07T12:48:25.1831916+09:00","level":"INFO","msg":"handler: closed"}
+{"time":"2026-11-07T12:48:25.1837681+09:00","level":"INFO","msg":"sender: closed"}
+{"time":"2026-11-07T12:48:25.1837681+09:00","level":"INFO","msg":"stream: all finished"}

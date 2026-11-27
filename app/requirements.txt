@@ -1,0 +1,7 @@
+numpy
+scipy
+pillow
+fastapi
+uvicorn
+python-multipart
+gradio>=4.40
